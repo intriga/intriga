@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/intriga/intriga/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maxamin/maxamin/f7b8bec50ab8189ca6aaedf74e5c1e634baea6d4/assets/github-snake.svg" alt="Snake animation" />
 
 ###
